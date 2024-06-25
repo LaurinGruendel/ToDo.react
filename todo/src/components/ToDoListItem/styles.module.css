@@ -1,0 +1,8 @@
+.checked {
+  color: red;
+  text-decoration: line-through;
+}
+
+.notChecked {
+  color: green;
+}

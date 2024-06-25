@@ -1,0 +1,18 @@
+.checked {
+  color: red;
+  text-decoration: line-through;
+}
+
+.notChecked {
+  color: green;
+}
+
+.toDoItemContainer {
+  align-items: center;
+  justify-content: baseline;
+}
+
+.checkbox {
+  position: absolute;
+  left: 7750px;
+}
